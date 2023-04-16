@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This is my previous GitHub username, find me now in [403f](https://github.com/4o3f)
 <!--
 **LykorisR/LykorisR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
